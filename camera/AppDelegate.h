@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  camera
+//
+//  Created by wld on 23.03.2013.
+//  Copyright (c) 2013 Vlad Burlaciuc. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
